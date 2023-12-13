@@ -1,0 +1,4 @@
+baseURL = 'https://utopiestudio.com/'
+languageCode = 'en-us'
+title = 'Utopie Studio'
+theme = 'risotto'
